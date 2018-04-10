@@ -1,5 +1,6 @@
 # basic-html-tabs
 barebones tabs with just html, css, and vanilla js
+demo: https://coldshower.github.io/basic-html-tabs
 
 ### html
 ```html
@@ -17,15 +18,9 @@ barebones tabs with just html, css, and vanilla js
       <li>third</li>
     </ul>
   </div>
-  <div class="tab-content selected-tab-content">
-      first
-  </div>
-  <div class="tab-content">
-      second
-  </div>
-  <div class="tab-content">
-      third
-  </div>
+  <div class="tab-content selected-tab-content">first</div>
+  <div class="tab-content">second</div>
+  <div class="tab-content">third</div>
   <script src="main.js" type="text/javascript"></script>
 </body>
 </html>
