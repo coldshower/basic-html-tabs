@@ -1,9 +1,9 @@
 # basic-html-tabs
 barebones tabs with just html, css, and vanilla js
 
-demo: https://coldshower.github.io/basic-html-tabs
+#### Demo: https://coldshower.github.io/basic-html-tabs
 
-codepen: https://codepen.io/anon/pen/BGVYvM
+#### Codepen: https://codepen.io/anon/pen/BGVYvM
 
 ### html
 ```html
